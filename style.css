@@ -1,0 +1,67 @@
+body{
+font-family:Arial, Helvetica, sans-serif
+}
+
+table{
+    width: 400px;
+    border-collapse: collapse;
+}
+
+td {
+    border:solid 1px black;
+    padding: 8px;
+}
+.feito {
+ width: 20px;
+ height: 20px;
+ border: solid 3px black;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ margin-left: 10px;
+ margin-right: 10px;
+ background-color:rgb(100, 255, 100)
+
+}
+span{
+    margin-left:8px;
+    margin-bottom:20px;
+}
+div.naofeito{
+    width: 20px;
+    height: 20px;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color:rgb(255, 93, 93);
+}
+div.fazendo{
+    width: 20px;
+    height: 20px;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color:rgb(255, 255, 100)
+}
+tr.cabecalho{
+    background-color: grey;
+    color: white;
+    font-size: x-large;
+}
+td.cabecalho{
+    background-color: grey;
+    color: white;
+    font-size: x-large;
+}
+.ft{
+    background-color: rgb(100, 255, 100);
+}
+.fznd{
+    background-color: rgb(255, 255, 100);
+}
+.nft{
+background-color: rgb(255, 93, 93);
+}
